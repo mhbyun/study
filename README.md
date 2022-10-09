@@ -1,2 +1,2 @@
 # study
-vanila styud
+vanila study
