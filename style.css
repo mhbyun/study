@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{background-size:cover !important; background-repeat: no-repeat; margin:0; padding:0; font-family: 'Roboto', sans-serif; transition: .5s;}
+.Page{position: relative; text-align: center;}
+.Page h2{font-size:30px; color:#000; text-align: right; padding-right:30px; margin-bottom:6px;}
+.login{text-align: center; margin-top:150px;}
+.login .write{width:400px; height:58px; border: none; border-radius: 29px; font-size:20px; color:#222; text-indent: 20px; font-family: 'Roboto', sans-serif; font-weight: 600;}
+.login .write::placeholder{color:#222;}
+.login .button{width:150px; height: 58px; margin-left:6px; font-size:20px; border-radius: 29px; font-family: 'Roboto', sans-serif; background: none; border:1px solid #fff; color:#fff;}
+h1{font-size:40px; margin-top:150px;}
+
+.todo-form{margin-top:15px;}
+.todo-form input{width:520px; height:45px; border-radius: 16px; padding:0 20px; background:none; border:1px solid #fff; color:#fff; font-size:15px; color:#fff;}
+.todo-form input::placeholder{color:#fff;}
+.todo-list{width:500px; margin:0 auto; margin-top:15px;}
+.todo-list li{text-align: left; color:#fff; font-weight: 500; font-size:15px; margin-bottom:10px;}
+.todo-list li button{border:1px solid #fff; color:#fff; background:none; border-radius: 3px; margin-left:10px; cursor: pointer;}
+
+.weather{text-align: right; font-weight: 600; font-size:15px; padding-right: 30px;}
+
+.hidden{display:none;}
